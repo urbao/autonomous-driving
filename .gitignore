@@ -1,0 +1,2 @@
+# ignore large dataset files(all .p files)
+*.p 
